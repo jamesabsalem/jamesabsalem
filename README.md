@@ -71,7 +71,3 @@ If you are looking for a Senior Software Engineer who can help you build robust,
 <p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesabsalem&theme=dark" alt="jamesabsalem"" /></p>
 </details>
 <details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"><a href="#"><img alt="Mahesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jamesabsalem&bg_color=0D1117&color=FFFFFF&line=0000FF&point=FFFFFF&hide_border=false&" /></a></p>
-</details >
-<br>
