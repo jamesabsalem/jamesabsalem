@@ -69,5 +69,3 @@ If you are looking for a Senior Software Engineer who can help you build robust,
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesabsalem&theme=dark" alt="jamesabsalem"" /></p>
-</details>
-<details>
