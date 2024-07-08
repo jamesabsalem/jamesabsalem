@@ -16,7 +16,7 @@
 <br/>
 I am skilled in Agile methodologies and have experience working with Git, and Azure DevOps. I am also familiar with various front-end frameworks such as Angular, and Blazor.
 <br/>
-If you are looking for a Senior Software Engineer who can help you build robust, scalable, and high-performance web applications using .NET technologies, please feel free to connect with me. I am always looking for new opportunities to contribute my skills and expertise to innovative projects.
+If you are looking for a Senior Software Engineer who can help you build robust, scalable, and high-performance web applications using .NET technologies, please feel free to connect with me. I always seek new opportunities to contribute my skills and expertise to innovative projects.
 </p>
 
 ## About Me
@@ -30,7 +30,7 @@ If you are looking for a Senior Software Engineer who can help you build robust,
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/jamesabsalem/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=jamesabsalem@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
- <img align="right" alt="GIF" clear="both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="400" height="320" />
+ <img align="right" alt="GIF" clear="both" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="320" />
  
 <br />
 
