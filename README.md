@@ -1,4 +1,4 @@
-### Hi there ! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I am James Absalem Lintu !
+### Hi there! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I am James Absalem Lintu !
 
 <a href="https://github.com/jamesabsalem"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Developer;A+Professional+Coder"></a>
@@ -12,7 +12,7 @@
 
 <br/>
 
-<p>I am a Senior Software Engineer with extensive experience in full-stack development using .NET technologies. My expertise includes designing and developing scalable web applications using C#, .NET Core, and SQL Server. I am also experienced in developing RESTful APIs, and Web Forms.
+<p>I am a Senior Software Engineer with extensive experience in full-stack development using .NET technologies. My expertise includes designing and developing scalable web applications using C#, .NET Core 8, Entity Framework and SQL Server. I am also experienced in developing RESTful APIs, and Web Forms.
 <br/>
 I am skilled in Agile methodologies and have experience working with Git, and Azure DevOps. I am also familiar with various front-end frameworks such as Angular, and Blazor.
 <br/>
