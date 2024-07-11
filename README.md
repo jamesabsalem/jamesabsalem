@@ -1,6 +1,6 @@
 ### Hi there ! <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I am James Absalem Lintu !
 
-<a href="https://github.com/durgeshrai633/readme-typing-svg"><img
+<a href="https://github.com/jamesabsalem"><img
         src="https://readme-typing-svg.herokuapp.com?lines=A+Full+Stack+Developer;A+Professional+Coder"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jamesabsalem.jamesabsalem)
